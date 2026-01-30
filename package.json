@@ -1,0 +1,32 @@
+{
+  "name": "neuro-meme-ai",
+  "version": "1.0.0",
+  "description": "A modern AI meme generator website with a cyberpunk theme.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "meme",
+    "AI",
+    "generator",
+    "cyberpunk"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^2.2.19",
+    "prisma": "^3.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-next": "latest",
+    "typescript": "^4.4.4"
+  }
+}
